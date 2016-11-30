@@ -1,6 +1,7 @@
 # Video.js Resolution Switcher [![Build Status](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher.svg?branch=master)](https://travis-ci.org/kmoskwiak/videojs-resolution-switcher) 
 
-Resolution switcher for [video.js v5](https://github.com/videojs/video.js)
+Resolution switcher for [video.js v5](https://github.com/videojs/video.js).
+Modified specifically for use with ResourceSpace, although fixes may be more globally useful.
 
 ## Example
 
